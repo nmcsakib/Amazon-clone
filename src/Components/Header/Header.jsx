@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import logo from '../src/assets/images/Logo.svg'
+import logo from '../../assets/images/Logo.svg'
 const Header = () => {
     return (
         <nav className='header'>
