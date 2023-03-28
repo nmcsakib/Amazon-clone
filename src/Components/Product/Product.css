@@ -1,8 +1,8 @@
 
-  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;600&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap');
 
   .product{
-    height: 80vh;
+    max-height: 80vh;
     border: 1px solid #95A0A7;
     border-radius: 8px;
     position: relative;
